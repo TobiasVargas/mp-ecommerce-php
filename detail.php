@@ -32,9 +32,9 @@ $payer->address = array(
 
 $preference->items = array($item);
 $preference->back_urls = array(
-    "success" => "http://localhost/success.php",
-    "failure" => "http://localhost/failure.php", 
-    "pending" => "http://localhost/pending.php"
+    "success" => "https://tobiasvargas-mp-ecommerce-php.herokuapp.com/success.php",
+    "failure" => "https://tobiasvargas-mp-ecommerce-php.herokuapp.com/failure.php", 
+    "pending" => "https://tobiasvargas-mp-ecommerce-php.herokuapp.com/pending.php"
 );
 $preference->auto_return = "approved";
 $preference->payment_methods = array(
@@ -43,6 +43,7 @@ $preference->payment_methods = array(
     ),
     "installments" => 6
 );
+$preference->external_reference = "tobiasdevargas@outlook.com";
 $preference->notification_url = "https://webhook.site/f9020845-5211-4239-9ddd-0d7f14d9925f";
 $preference->save();
 
