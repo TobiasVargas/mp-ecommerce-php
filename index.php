@@ -665,7 +665,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $15.000
+                                                R$ 2.200,00
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -720,7 +720,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $10.000
+                                                R$ 1.400,00
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -776,7 +776,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $16.000
+                                                R$ 3.000,00
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -833,7 +833,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $9.000
+                                                R$ 1.400,00
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -885,7 +885,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $8.000
+                                                R$ 1.000,00
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -934,7 +934,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $10.000
+                                                R$ 980,00
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
