@@ -586,10 +586,10 @@ $preference->save();
                                             </h3>
                                         </div>
                                         <h3>
-                                            <?php echo $_POST['price'] ?>
+                                            <?php echo "R$" . $_POST['price'] ?>
                                         </h3>
                                         <h3>
-                                            <?php echo "R$" . $_POST['unit'] ?>
+                                            <?php echo  $_POST['unit'] ?> unidade
                                         </h3>
                                     </div>
                                     <script
